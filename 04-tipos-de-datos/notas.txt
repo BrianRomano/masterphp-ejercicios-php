@@ -1,0 +1,2 @@
+-La función 'gettype', devuelve el tipo de dato.
+-La función 'var_dump', devuelve que es lo que se tiene dentro de una variable (contenido, tipo de dato, longitud).

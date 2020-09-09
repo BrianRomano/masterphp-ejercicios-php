@@ -1,0 +1,1 @@
+-El metodo 'get' pasa los datos rellenados en el formulario por la url.
